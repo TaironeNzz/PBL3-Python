@@ -1,0 +1,44 @@
+[
+    {
+        "livre": {
+            "NONYz": 200,
+            "nome2": 0,
+            "nome3": 0,
+            "nome4": 0,
+            "nome5": 0,
+            "nome6": 0,
+            "nome7": 0,
+            "nome8": 0,
+            "nome9": 0,
+            "nome10": 0
+        }
+    },
+    {
+        "tempo": {
+            "NONYz": 40,
+            "nome2": 300,
+            "nome3": 300,
+            "nome4": 300,
+            "nome5": 300,
+            "nome6": 300,
+            "nome7": 300,
+            "nome8": 300,
+            "nome9": 300,
+            "nome10": 300
+        }
+    },
+    {
+        "erre": {
+            "NONYz": 200,
+            "nome2": 0,
+            "nome3": 0,
+            "nome4": 0,
+            "nome5": 0,
+            "nome6": 0,
+            "nome7": 0,
+            "nome8": 0,
+            "nome9": 0,
+            "nome10": 0
+        }
+    }
+]
